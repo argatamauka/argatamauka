@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Arga Setia Tamauka 👋
 
-<!--
-**argatamauka/argatamauka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Informatics Student at Universitas Klabat
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning Programming, Web Development, and Software Engineering
+- 🚀 Passionate about building useful software and continuously improving my skills
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I'm Learning
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/arga-setia-tamauka-60a153302/
