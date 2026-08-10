@@ -15,3 +15,5 @@
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/arga-setia-tamauka-60a153302/
+- Instagram: https://www.instagram.com/argatamauka_/
+- Tiktok: https://www.tiktok.com/@argatamauka
