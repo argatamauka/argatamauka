@@ -11,7 +11,7 @@
 - CSS
 - JavaScript
 - Git & GitHub
-- C++
+- Python
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/arga-setia-tamauka-60a153302/
