@@ -1,18 +1,18 @@
 # Hi there, I'm Arga Setia Tamauka 👋
 
-> Building under **ASThorizon** — **BEYOND THE KNOWN.**
+> Building under **ASTnova** — **IGNITE WHAT'S POSSIBLE.**
 
 I'm an Informatics student at Universitas Klabat and an aspiring software engineer interested in building useful software, exploring technology, and turning ideas into practical projects.
 
-## 🌌 ASThorizon
+## 🌌 ASTnova
 
-ASThorizon is my personal identity for technology, creativity, and exploration.
+ASTnova is my personal identity for technology, creativity, and exploration.
 
 - **AST** comes from my initials.
-- **Horizon** represents the boundary of what is currently known—and the possibilities beyond it.
-- **Tagline:** BEYOND THE KNOWN.
+- **Nova** is inspired by a star that suddenly becomes brighter, symbolizing the potential of ideas to become something meaningful.
+- **Tagline:** IGNITE WHAT'S POSSIBLE.
 
-Read the [ASThorizon brand identity](ASTHORIZON.md).
+Read the [ASTnova brand identity](ASTNOVA.md).
 
 ## 👨‍💻 What I'm Learning
 
