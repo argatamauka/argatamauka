@@ -1,20 +1,23 @@
 # Hi there, I'm Arga Setia Tamauka 👋
 
-> Building under **ASTnova** — **IGNITE WHAT'S POSSIBLE.**
+> Building under **ASTvibe** — **CREATE YOUR OWN VIBE.**
 
 I'm an Informatics student at Universitas Klabat and an aspiring software engineer interested in building useful software, exploring technology, and turning ideas into practical projects.
 
-## 🌌 ASTnova
+## ASTvibe
 
-ASTnova is my personal identity for technology, creativity, and exploration.
+ASTvibe is my personal creative-technology identity.
 
-- **AST** comes from my initials.
-- **Nova** is inspired by a star that suddenly becomes brighter, symbolizing the potential of ideas to become something meaningful.
-- **Tagline:** IGNITE WHAT'S POSSIBLE.
+- **AST** comes from my initials: Arga Setia Tamauka.
+- **Vibe** represents character, energy, atmosphere, and creative style.
+- **Tagline:** CREATE YOUR OWN VIBE.
+- **Pillars:** Technology · Creativity · Innovation · Exploration
 
-Read the [ASTnova brand identity](ASTNOVA.md).
+Every independent product and project uses the **ASTvibe** prefix, such as ASTvibe Student Planner, ASTvibe Study AI, and ASTvibe Portfolio.
 
-## 👨‍💻 What I'm Learning
+Read the [official ASTvibe brand identity](ASTVIBE.md).
+
+## What I'm Learning
 
 - Programming and problem solving
 - Web development
@@ -22,7 +25,7 @@ Read the [ASTnova brand identity](ASTNOVA.md).
 - Python
 - Git & GitHub
 
-## 🛠️ Technologies
+## Technologies
 
 - HTML
 - CSS
@@ -30,7 +33,7 @@ Read the [ASTnova brand identity](ASTNOVA.md).
 - Python
 - Git & GitHub
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/arga-setia-tamauka-60a153302/
 - Instagram: https://www.instagram.com/argatamauka_/
